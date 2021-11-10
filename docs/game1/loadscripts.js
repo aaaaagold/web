@@ -2,6 +2,7 @@
 
 const ver = "4.2.6.8.9.6☆4.WVUTSRQPONMLK * *" ;
 
+window.objs={origin:"https://agold404.nctucs.net",_isDev:true}; var isDev=1;
 var isDev,dev_kkk,dev_kk,jss;
 if(window.sha256&&sha256(location.hash)=== "0x14DD85360B94DCFB62EC6A5195564BBC48D75D4844786C887011D385AE3B0FCC") debugger;
 (()=>{
